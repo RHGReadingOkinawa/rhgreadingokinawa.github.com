@@ -1,3 +1,8 @@
+---
+layout: post
+title: prepare-to-read
+---
+
 ### [yamanetoshi](https://github.com/RHGReadingOkinawa/rhgreadingokinawa.github.com/issues/6)
 
 #### 環境設定について
